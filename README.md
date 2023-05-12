@@ -5,4 +5,6 @@ copy link
 https://terabox.com/s/1RebqpL5CpGpOkqrbCVf7Kw
 ```
 or
-<a href='https://terabox.com/s/1RebqpL5CpGpOkqrbCVf7Kw' target='_blank'>open on new window</a>
+
+
+<a href='https://terabox.com/s/1RebqpL5CpGpOkqrbCVf7Kw' target='_blank' rel="noopener noreferrer">cklick this to open new window🔥</a>
